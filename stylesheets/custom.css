@@ -1,0 +1,22 @@
+ul#quick-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+ul#quick-nav li a {
+    display: block;
+    color: #000;
+    text-decoration: none;
+    width: 150px;
+}
+
+ul#quick-nav li a:hover {
+    color: greenyellow;
+}
+
+.hotel-checks img {
+    border: 1px dotted #333;
+    margin-bottom: 50px;
+}
